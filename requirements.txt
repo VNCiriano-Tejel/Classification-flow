@@ -1,0 +1,10 @@
+os
+pandas
+numpy>=1.19.2
+seaborn
+sklearn>=0.24.2
+matplotlib
+torch
+json
+torchvision
+
